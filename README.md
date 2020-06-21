@@ -16,6 +16,7 @@ Boilerplate project to run native and browser for android and ios using mocha wi
 - Supports Page Object Model
 - Contains sample test scenarios in mocha
 - Supports eslint
+- Supports allure reporting
 
 ## Source
 Click below to know more 
