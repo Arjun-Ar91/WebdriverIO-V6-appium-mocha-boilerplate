@@ -1,5 +1,5 @@
 module.exports = {
-    deviceName: '5527c8fb',
-    platformVersion: '9',
+    deviceName: '', // pass the udid ode device
+    platformVersion: '', // pass the platform version
     app: 'Celsius Fahrenheit Converter_v1.0.1_apkpure.com.apk'
 };
