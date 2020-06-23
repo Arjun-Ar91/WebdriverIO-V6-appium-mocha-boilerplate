@@ -1,5 +1,5 @@
 module.exports = {
-    deviceName: 'iPhone Simulator',
-    platformVersion: '12.4',
+    deviceName: '', // pass the udid or device name
+    platformVersion: '', // pass the platform version
     app: 'com.apple.Preferences'
 };
