@@ -16,6 +16,10 @@
   },
   "rules": {
     "no-console": "warn",
+    "quotes": [
+      "error",
+      "single"
+    ],
     "max-len": [
       "error",
       {

@@ -1,6 +1,6 @@
 const {config} = require('./wdio.conf');
 const androidInfo = require('./android.info');
-const path = require("path");
+const path = require('path');
 
 // appium capabilities
 config.capabilities = [
@@ -12,7 +12,7 @@ config.capabilities = [
         fullReset: false,
         deviceName: androidInfo.deviceName,
         platformVersion: androidInfo.platformVersion,
-        app: path.resolve('apps/'+androidInfo.app)
+        app: path.resolve('apps/' + androidInfo.app)
     }
 ];
 

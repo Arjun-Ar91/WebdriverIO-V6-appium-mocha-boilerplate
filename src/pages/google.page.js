@@ -3,7 +3,7 @@ const ActionHelper = require('./../helpers/actionHelpers');
 class GooglePage {
 
     getObjectLocator() {
-        return require(`./../screens/web/google.screen.js`);
+        return require('./../screens/web/google.screen.js');
     }
 
     launchGoogle() {

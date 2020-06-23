@@ -4,7 +4,7 @@ class CelsiusToFahrenhietConvertorPage {
 
     getObjectLocator() {
         return require(`./../screens/native/${browser.capabilities.platformName.toLowerCase()}/`
-            + `celsiusToFahrenheitConvertor.screen.js`);
+            + 'celsiusToFahrenheitConvertor.screen.js');
     }
 
     dismissAppRatingIfPresent() {
