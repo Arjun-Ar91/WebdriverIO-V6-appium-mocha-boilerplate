@@ -5,7 +5,7 @@ Boilerplate project to run native and browser for android and ios using mocha wi
 ## Based on
 
 - WebdriverIO v6
-- mocha v6
+- Mocha v6
 - Node version 10.16 or higher
 - Appium
 
